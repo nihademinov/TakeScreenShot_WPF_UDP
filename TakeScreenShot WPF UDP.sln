@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeScreenShot_WPF_UDP", "TakeScreenShot WPF UDP\TakeScreenShot_WPF_UDP.csproj", "{EB8FDB79-FAE3-4272-8C6A-D634C0756B64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{BD161734-A692-44D0-AD12-98E80E00872B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB8FDB79-FAE3-4272-8C6A-D634C0756B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8FDB79-FAE3-4272-8C6A-D634C0756B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8FDB79-FAE3-4272-8C6A-D634C0756B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8FDB79-FAE3-4272-8C6A-D634C0756B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD161734-A692-44D0-AD12-98E80E00872B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD161734-A692-44D0-AD12-98E80E00872B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD161734-A692-44D0-AD12-98E80E00872B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD161734-A692-44D0-AD12-98E80E00872B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3A9ECFF-FC4C-4484-B6DE-16E48EE23629}
+	EndGlobalSection
+EndGlobal
